@@ -7,6 +7,6 @@ tags={
 	"Fixes"
 	"Utilities"
 }
-name="Puppet Manager (Kevified Edition)"
+name="Puppet Manager (Kevified)"
 supported_version="1.10.3"
 path="mod/puppetmanagerkev"
